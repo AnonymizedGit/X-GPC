@@ -1,3 +1,7 @@
+# Code for the paper *Efficient Gaussian Process Classification Using Polya-Gamma Data Augmentation*
+
+**paper is under review**
+
 ### RUN A SIMPLE THE EXAMPLE ###
 First install Julia 0.7 following this [link](https://julialang.org/downloads/)
 All steps for installing Julia are nicely explained through the help.
